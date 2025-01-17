@@ -1,0 +1,5 @@
+id,class,text,tag,value,type,name,label,locator
+name-field,input-class,Name,input,Name,text,name,input,name
+email-field,email-class,Email,input,Email,email,email,input,name
+website-field,web-class,Website,input,Website,url,website,input,name
+submit-btn,btn-class,Submit,input,Submit,submit,submit,button,name

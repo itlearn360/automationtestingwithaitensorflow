@@ -1,0 +1,662 @@
+2025-01-17 14:44:06,711 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 14:44:09,487 - INFO - Predicted Element Type: input
+2025-01-17 14:44:09,488 - INFO - Filtered Locator Priority: []
+2025-01-17 14:44:35,413 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 14:44:38,146 - INFO - Predicted Element Type: input
+2025-01-17 14:44:38,146 - INFO - Filtered Locator Priority: []
+2025-01-17 14:48:18,517 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 14:48:21,587 - INFO - Predicted Element Type: select
+2025-01-17 14:48:21,587 - INFO - Filtered Locator Priority: []
+2025-01-17 14:54:29,798 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 14:54:32,837 - INFO - Predicted Element Type: button
+2025-01-17 14:54:32,837 - INFO - Filtered Locator Priority: ['id']
+2025-01-17 14:54:32,849 - INFO - Element located using id.
+2025-01-17 14:54:32,917 - INFO - Element clicked.
+2025-01-17 14:56:09,755 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 14:56:12,777 - INFO - Predicted Element Type: button
+2025-01-17 14:56:12,777 - INFO - Filtered Locator Priority: ['id']
+2025-01-17 14:56:12,788 - INFO - Element located using id.
+2025-01-17 14:56:12,867 - INFO - Element clicked.
+2025-01-17 14:56:33,194 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 14:56:36,200 - INFO - Predicted Element Type: button
+2025-01-17 14:56:36,200 - INFO - Filtered Locator Priority: ['id']
+2025-01-17 14:56:36,210 - WARNING - Failed to locate element using id: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="fsdfd"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:08:53,542 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 16:08:57,552 - INFO - Predicted Element Type: button
+2025-01-17 16:08:57,552 - INFO - Predicted Locator Priority: ['id', 'text', 'class', 'value']
+2025-01-17 16:08:57,552 - WARNING - Predicted type 'button' corrected to 'input' based on HTML tag.
+2025-01-17 16:08:57,565 - WARNING - Failed to locate element using id: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="email-field"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:08:57,577 - WARNING - Failed to locate element using text: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:08:57,586 - WARNING - Failed to locate element using class: Message: no such element: Unable to locate element: {"method":"css selector","selector":".email-class"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:08:57,597 - WARNING - Failed to locate element using value: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@value='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:25:36,791 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 16:25:40,098 - INFO - Predicted Element Type: input
+2025-01-17 16:25:40,098 - INFO - Predicted Locator Priority: ['id']
+2025-01-17 16:25:40,114 - WARNING - Failed to locate element using id: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="email-field"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:38:50,252 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 16:38:54,218 - INFO - Predicted Element Type: button
+2025-01-17 16:38:54,218 - INFO - Predicted Locator Priority: ['type', 'id', 'text', 'value', 'name', 'class']
+2025-01-17 16:38:54,218 - WARNING - Predicted type 'button' corrected to 'input' based on HTML tag.
+2025-01-17 16:38:54,239 - WARNING - Failed to locate element using type: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@type='email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:38:54,255 - WARNING - Failed to locate element using id: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="email-field"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:38:54,270 - WARNING - Failed to locate element using text: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:38:54,286 - WARNING - Failed to locate element using value: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@value='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:38:54,300 - INFO - Element located using name.
+2025-01-17 16:38:54,384 - INFO - Text entered in input field.
+2025-01-17 16:39:47,685 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 16:39:50,912 - INFO - Predicted Element Type: button
+2025-01-17 16:39:50,912 - INFO - Predicted Locator Priority: ['type', 'id', 'text', 'value', 'name', 'class']
+2025-01-17 16:39:50,912 - WARNING - Predicted type 'button' corrected to 'input' based on HTML tag.
+2025-01-17 16:39:50,935 - WARNING - Failed to locate element using type: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@type='email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:39:50,962 - WARNING - Failed to locate element using id: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="email-field"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:39:50,984 - WARNING - Failed to locate element using text: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:39:51,003 - WARNING - Failed to locate element using value: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@value='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:39:51,032 - INFO - Element located using name.
+2025-01-17 16:39:51,162 - INFO - Text entered in input field.
+2025-01-17 16:41:25,697 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 16:41:28,855 - INFO - Predicted Element Type: button
+2025-01-17 16:41:28,855 - INFO - Predicted Locator Priority: ['type', 'id', 'text', 'value', 'name', 'class']
+2025-01-17 16:41:28,855 - WARNING - Predicted type 'button' corrected to 'input' based on HTML tag.
+2025-01-17 16:41:28,877 - WARNING - Failed to locate element using type: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@type='email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:41:28,893 - WARNING - Failed to locate element using id: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="email-field"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:41:28,912 - WARNING - Failed to locate element using text: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:41:28,927 - WARNING - Failed to locate element using value: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@value='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:41:28,942 - INFO - Element located using name.
+2025-01-17 16:41:29,072 - INFO - Text entered in input field.
+2025-01-17 16:43:22,752 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 16:43:26,472 - INFO - Predicted Element Type: input
+2025-01-17 16:43:26,472 - INFO - Predicted Locator Priority: ['id', 'text', 'name', 'class']
+2025-01-17 16:43:26,491 - WARNING - Failed to locate element using id: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="email-field"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:43:26,510 - WARNING - Failed to locate element using text: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:43:26,525 - INFO - Element located using name.
+2025-01-17 16:43:26,634 - INFO - Text entered in input field.
+2025-01-17 16:44:00,057 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 16:44:07,857 - INFO - Predicted Element Type: input
+2025-01-17 16:44:07,857 - INFO - Predicted Locator Priority: ['id', 'text', 'name', 'class']
+2025-01-17 16:44:07,867 - WARNING - Failed to locate element using id: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="email-field"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:44:07,907 - WARNING - Failed to locate element using text: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:44:07,923 - INFO - Element located using name.
+2025-01-17 16:44:08,017 - INFO - Text entered in input field.
+2025-01-17 16:44:25,676 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-17 16:44:33,197 - INFO - Predicted Element Type: input
+2025-01-17 16:44:33,197 - INFO - Predicted Locator Priority: ['id', 'text', 'name', 'class']
+2025-01-17 16:44:33,221 - WARNING - Failed to locate element using id: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="email-field"]"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:44:33,227 - WARNING - Failed to locate element using text: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Email']"}
+  (Session info: chrome=131.0.6778.265); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74C5E80D5+2992373]
+	(No symbol) [0x00007FF74C27BFD0]
+	(No symbol) [0x00007FF74C11590A]
+	(No symbol) [0x00007FF74C16926E]
+	(No symbol) [0x00007FF74C16955C]
+	(No symbol) [0x00007FF74C1B27D7]
+	(No symbol) [0x00007FF74C18F3AF]
+	(No symbol) [0x00007FF74C1AF584]
+	(No symbol) [0x00007FF74C18F113]
+	(No symbol) [0x00007FF74C15A918]
+	(No symbol) [0x00007FF74C15BA81]
+	GetHandleVerifier [0x00007FF74C646A2D+3379789]
+	GetHandleVerifier [0x00007FF74C65C32D+3468109]
+	GetHandleVerifier [0x00007FF74C650043+3418211]
+	GetHandleVerifier [0x00007FF74C3DC78B+847787]
+	(No symbol) [0x00007FF74C28757F]
+	(No symbol) [0x00007FF74C282FC4]
+	(No symbol) [0x00007FF74C28315D]
+	(No symbol) [0x00007FF74C272979]
+	BaseThreadInitThunk [0x00007FF9001EE8D7+23]
+	RtlUserThreadStart [0x00007FF90103FBCC+44]
+
+2025-01-17 16:44:33,243 - INFO - Element located using name.
+2025-01-17 16:44:33,395 - INFO - Text entered in input field.

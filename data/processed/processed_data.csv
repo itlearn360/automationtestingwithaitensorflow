@@ -1,0 +1,5 @@
+label_button,label_input,locator_name,id_email-field,id_name-field,id_submit-btn,id_website-field,class_btn-class,class_email-class,class_input-class,class_web-class,text_Email,text_Name,text_Submit,text_Website,tag_input,value_Email,value_Name,value_Submit,value_Website,type_email,type_submit,type_text,type_url,name_email,name_name,name_submit,name_website,locator_id,locator_class,locator_text,locator_value,locator_type
+0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+0,1,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0

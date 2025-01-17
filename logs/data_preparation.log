@@ -1,0 +1,14 @@
+2025-01-17 12:21:20,861 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 12:23:50,937 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 12:34:34,217 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 12:46:05,136 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 13:59:16,240 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 14:11:59,434 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 14:19:05,460 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 14:23:35,653 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 14:33:22,823 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 14:47:48,516 - ERROR - Error in data preprocessing: [Errno 13] Permission denied: 'data/processed/processed_data.csv'
+2025-01-17 14:47:56,461 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 14:53:38,245 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 16:17:03,567 - INFO - Processed data saved to data/processed/processed_data.csv
+2025-01-17 16:17:19,740 - INFO - Processed data saved to data/processed/processed_data.csv
