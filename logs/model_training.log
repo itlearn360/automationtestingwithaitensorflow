@@ -3,3 +3,6 @@
 2025-01-17 16:38:32,167 - Processed data saved to data/processed/processed_data.csv
 2025-01-17 16:38:36,490 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
 2025-01-17 16:38:36,554 - Model saved to models/element_model.h5
+2025-01-21 16:54:28,828 - Processed data saved to data/processed/processed_data.csv
+2025-01-21 16:54:31,125 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-01-21 16:54:31,222 - Model saved to models/element_model.h5

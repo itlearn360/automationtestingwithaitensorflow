@@ -1,5 +1,10 @@
 id,class,text,tag,value,type,name,label,locator
-name-field,input-class,Name,input,Name,text,name,input,name
-email-field,email-class,Email,input,Email,email,email,input,name
-website-field,web-class,Website,input,Website,url,website,input,name
-submit-btn,btn-class,Submit,input,Submit,submit,submit,button,name
+page-title,n/a,Page Title,title,Home,text,page,n/a,title
+logo,logo-class,Logo,img,Logo,logo,logo,logo,name
+button,btn-class,Submit,button,Submit,button,submit,button,id
+header,header-class,Header,h1,Welcome,text,header,header,text
+placeholder,input-class,Placeholder,input,Search,text,search,input,name
+search-bar,input-class,Search,input,Search,text,search-bar,input,name
+valid-login,form-class,Login,form,Valid,text,login,form,name
+invalid-login,form-class,Login,form,Invalid,text,login,form,name
+footer-links,footer-class,Footer,a,Links,text,footer,footer,text
